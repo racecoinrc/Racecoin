@@ -130,7 +130,6 @@ contract ERC20 is IERC20 {
     }
 
 }
-//contract name
 contract RAN is ERC20 {
   string public constant name = 'RACECOIN';
   string public constant symbol = 'RAN';
